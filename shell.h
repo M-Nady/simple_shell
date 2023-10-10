@@ -12,6 +12,7 @@
 #include <fcntl.h>
 #include <errno.h>
 
+#define BUF_FLUSH 0
 #define READ_BUF_SIZE 1024
 #define WRITE_BUF_SIZE 1024
 
